@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         //3
         //4
         //5
+        int feature2;
     }
 }
