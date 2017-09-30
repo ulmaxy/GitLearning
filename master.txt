@@ -1,3 +1,2 @@
 Master file
 now it's feature file
-unwanted line
